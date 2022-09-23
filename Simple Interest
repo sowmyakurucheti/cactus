@@ -1,0 +1,12 @@
+p=int(input("enter the number"))
+t=int(input("enter the number"))
+r=float(input("enter the number"))
+i=(p*t*r)/100
+print(i)
+
+Sample Input:
+15000
+2
+2.8
+Sample Output:
+840.00
