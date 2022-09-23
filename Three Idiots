@@ -1,0 +1,17 @@
+x1=int(input("enter the number::"))
+y1=int(input("enter the number::"))
+x2=int(input("enter the number::"))
+y2=int(input("enter the number::"))
+m1=(x1+x2)/2
+m2=(y1+y2)/2
+print("Binoy's house is located at",(m1,m2))
+
+Sample Input:
+2
+4
+10
+15
+Sample Output:
+Binoy's house is located at (6.0,9.5)
+
+
