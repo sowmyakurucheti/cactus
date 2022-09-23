@@ -2,3 +2,11 @@
 num2=int(input())
 print("the sum is::",num1+num2)
 print("the difference is::",num1-num2)
+
+Sample Input:
+55
+34
+
+Sample Output:
+89
+21
