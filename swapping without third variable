@@ -5,3 +5,10 @@ num2=num1-num2
 num1=num1-num2
 print(num1)
 print(num2)
+
+Sample Input:
+10
+20
+Sample Output:
+20
+10
