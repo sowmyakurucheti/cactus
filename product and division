@@ -1,0 +1,5 @@
+num1=int(input("enter the number"))
+num2=int(input("enter the nummber"))
+print(" product is::",num1*num2)
+print("division is::",num1//num2)
+print(" remainder is::",num1%num2)
