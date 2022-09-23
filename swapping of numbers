@@ -5,3 +5,10 @@ num1=num2
 num2=temp
 print(num1)
 print(num2)
+
+Sample Input:
+20
+10
+Sample Output:
+10
+20
