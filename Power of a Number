@@ -1,0 +1,9 @@
+x=int(input("enter the num::"))
+n=int(input("enter the number"))
+print(pow(x,n))
+
+Sample Input:
+2
+3
+Sample Output:
+8
