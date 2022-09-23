@@ -1,0 +1,9 @@
+a=int(input())
+b=a%10
+c=a//10
+print(b+c)
+
+SAMPLE INPUT  :
+23
+SAMPLE OUTPUT:
+5
